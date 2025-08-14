@@ -1,0 +1,10 @@
+1. Instalar node.js
+2. Criar uma pasta por exemplo "Prog3-aula2"
+3. Abrir o VS
+4. No meu abrir open folder
+5. New File
+6.Digitar os códigos 
+7. Abrir um novo terminal
+8. Digitar no terminal: node --version (verificar se instalou e qual versão)
+9. Digitar no terminal: cmd (Irá usar o cmd invés dos modelos instalados na maquina)
+10.Para executar/interpretar o aquivo: node .\nomeDoArquivo (no meu caso: node .\index.js)
