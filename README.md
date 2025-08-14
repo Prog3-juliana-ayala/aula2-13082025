@@ -7,5 +7,5 @@ Aula 2 de programação 3 em 13/08/2025
 - Onde escrever código JavaScript:
 - Dentro do HTML (`<script>`)
 - Arquivo externo (`.js`)
-- Como executar/interpretar o arquivo: abrir um novo terminar e digitar: node.nomeDoArquivo.tipoDoArquivo
+- Como executar/interpretar o arquivo: abrir um novo terminar e digitar: node.nomeDoArquivo.js
 
