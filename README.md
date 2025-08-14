@@ -8,4 +8,5 @@ Aula 2 de programação 3 em 13/08/2025
 - Dentro do HTML (`<script>`)
 - Arquivo externo (`.js`)
 - Como executar/interpretar o arquivo: abrir um novo terminar e digitar: node.nomeDoArquivo.js
+- Gerenciador de pacotes
 
